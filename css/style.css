@@ -7,3 +7,29 @@ body {
 #main {
   width: 900px;
 }
+
+#menu {
+  background: #c5c5b2;
+  padding: 18px;
+}
+
+#content {
+  background: #e8e8d9;
+  padding: 10px;
+}
+
+#footer {
+  text-align: center;
+}
+
+a {
+  color: #4b566a;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px;
+}
+
+h1 {
+  color: #828271;
+  font-size: 1.2em;
+}
