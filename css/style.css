@@ -22,6 +22,10 @@ body {
   text-align: center;
 }
 
+.advertising-image {
+  border: 10px solid #c3c3ae;
+}
+
 a {
   color: #4b566a;
   text-decoration: none;
